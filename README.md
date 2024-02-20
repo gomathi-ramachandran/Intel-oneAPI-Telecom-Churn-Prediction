@@ -6,7 +6,7 @@ The Telecom industry faces a persistent challenge in retaining customers due to 
 # What it Does 🚀
 The Telecom Churn Prediction model leverages advanced machine learning techniques to analyze customer data and forecast the likelihood of churn in telecom services. By inputting key customer attributes like tenure, usage patterns, and billing information, the model generates accurate predictions, empowering telecom companies to proactively identify at-risk customers and implement targeted retention strategies. These strategies may include personalized offers, loyalty programs, and proactive customer support, aimed at mitigating churn rates and enhancing customer loyalty. Furthermore, the model provides valuable insights into the drivers of churn, enabling telecom companies to optimize services and improve overall customer satisfaction. Through its predictive capabilities, the Telecom Churn Prediction model revolutionizes customer relationship management in the telecom industry, facilitating informed decision-making and maximizing profitability.
 # How I Built It 🛠
-#### 1. Data Collection: 
+### 1. Data Collection: 
 Curated a comprehensive dataset comprising customer demographics, usage metrics, service interactions, and churn history from diverse sources.
 ### 2. Data Preprocessing: 
 Conducted thorough data cleaning, handling missing values, and encoding categorical variables to ensure data quality and compatibility with machine learning models.
