@@ -6,9 +6,12 @@ The Telecom industry faces a persistent challenge in retaining customers due to 
 # What it Does 🚀
 The Telecom Churn Prediction model leverages advanced machine learning techniques to analyze customer data and forecast the likelihood of churn in telecom services. By inputting key customer attributes like tenure, usage patterns, and billing information, the model generates accurate predictions, empowering telecom companies to proactively identify at-risk customers and implement targeted retention strategies. These strategies may include personalized offers, loyalty programs, and proactive customer support, aimed at mitigating churn rates and enhancing customer loyalty. Furthermore, the model provides valuable insights into the drivers of churn, enabling telecom companies to optimize services and improve overall customer satisfaction. Through its predictive capabilities, the Telecom Churn Prediction model revolutionizes customer relationship management in the telecom industry, facilitating informed decision-making and maximizing profitability.
 # How I Built It 🛠
-**1. Data Collection:** Curated a comprehensive dataset comprising customer demographics, usage metrics, service interactions, and churn history from diverse sources.
-2. Data Preprocessing: Conducted thorough data cleaning, handling missing values, and encoding categorical variables to ensure data quality and compatibility with machine learning models.
-3. Feature Engineering: Engineered relevant features and conducted exploratory data analysis to extract actionable insights and enhance model performance.
+### 1. Data Collection: 
+Curated a comprehensive dataset comprising customer demographics, usage metrics, service interactions, and churn history from diverse sources.
+### 2. Data Preprocessing: 
+Conducted thorough data cleaning, handling missing values, and encoding categorical variables to ensure data quality and compatibility with machine learning models.
+### 3. Feature Engineering: 
+Engineered relevant features and conducted exploratory data analysis to extract actionable insights and enhance model performance.
 4. Model Selection and Training: Leveraged Intel OneAPI to expedite model training and optimization, evaluating various machine learning algorithms such as logistic regression, random forest, and gradient boosting to identify the best-performing model based on predictive accuracy and efficiency.
 5. Intel OneAPI Integration: Integrated Intel OneAPI tools and libraries to accelerate computations and improve model performance, harnessing the power of heterogeneous computing architectures for efficient processing.
 6. Model Evaluation: Employed robust evaluation metrics such as accuracy, precision, recall, and F1-score to assess model performance, validate predictive capabilities, and fine-tune hyperparameters.
