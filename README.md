@@ -1,2 +1,3 @@
 # OneAPI-Telecom-Churn-Prediction
-The project involved the development and implementation of a novel Bayesian hierarchical joint model to characterize customer profiles based on their television-watching journeys, taking into account the frequency of events and time intervals between them.
+# Inspiration 🌟
+The telecom industry, characterized by fierce competition and evolving consumer preferences, faces a constant challenge in retaining customers. Customer churn, the phenomenon where subscribers switch to competitors or discontinue services, significantly impacts revenue and profitability. Drawing inspiration from the critical need to address churn, our project aims to develop a robust machine learning model capable of accurately predicting churn, thereby empowering telecom companies to implement proactive retention strategies and enhance customer loyalty.
