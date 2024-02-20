@@ -12,7 +12,17 @@ Curated a comprehensive dataset comprising customer demographics, usage metrics,
 Conducted thorough data cleaning, handling missing values, and encoding categorical variables to ensure data quality and compatibility with machine learning models.
 ### 3. Feature Engineering: 
 Engineered relevant features and conducted exploratory data analysis to extract actionable insights and enhance model performance.
-4. Model Selection and Training: Leveraged Intel OneAPI to expedite model training and optimization, evaluating various machine learning algorithms such as logistic regression, random forest, and gradient boosting to identify the best-performing model based on predictive accuracy and efficiency.
-5. Intel OneAPI Integration: Integrated Intel OneAPI tools and libraries to accelerate computations and improve model performance, harnessing the power of heterogeneous computing architectures for efficient processing.
-6. Model Evaluation: Employed robust evaluation metrics such as accuracy, precision, recall, and F1-score to assess model performance, validate predictive capabilities, and fine-tune hyperparameters.
-7. Deployment: Utilized Streamlit to deploy the final model, providing a user-friendly interface for real-time churn predictions and actionable insights, seamlessly integrating into operational workflows for enhanced decision-making.
+### 4. Model Selection and Training: 
+Leveraged Intel OneAPI to expedite model training and optimization, evaluating various machine learning algorithms such as logistic regression, random forest, and gradient boosting to identify the best-performing model based on predictive accuracy and efficiency.
+### 5. Intel OneAPI Integration: 
+Integrated Intel OneAPI tools and libraries to accelerate computations and improve model performance, harnessing the power of heterogeneous computing architectures for efficient processing.
+### 6. Model Evaluation: 
+Employed robust evaluation metrics such as accuracy, precision, recall, and F1-score to assess model performance, validate predictive capabilities, and fine-tune hyperparameters.
+### 7. Deployment: 
+Utilized Streamlit to deploy the final model, providing a user-friendly interface for real-time churn predictions and actionable insights, seamlessly integrating into operational workflows for enhanced decision-making.
+What We Learned 🧠
+
+1. *Machine Learning Techniques*: Developed proficiency in leveraging machine learning for predictive analytics, with a focus on customer churn prediction.
+2. *Data Processing Expertise*: Acquired insights into data preprocessing, feature engineering, and model selection, essential for building accurate predictive models.
+3. *Intel OneAPI Integration*: Mastered the utilization of Intel OneAPI for accelerated model training and optimization, enhancing computational efficiency.
+4. *Deployment Skills*: Gained practical experience in deploying machine learning solutions using Streamlit, facilitating seamless integration into business workflows.
