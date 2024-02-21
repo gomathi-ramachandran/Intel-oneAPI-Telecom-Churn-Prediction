@@ -13,7 +13,7 @@ Conducted thorough data cleaning, handling missing values, and encoding categori
 ### 3. Feature Engineering: 
 Engineered relevant features and conducted exploratory data analysis to extract actionable insights and enhance model performance.
 ### 4. Model Selection and Training: 
-Leveraged Intel OneAPI to expedite model training and optimization, evaluating various machine learning algorithms such as logistic regression, random forest, and gradient boosting to identify the best-performing model based on predictive accuracy and efficiency.
+Leveraged Intel OneAPI to expedite model training and optimization, evaluating various machine learning algorithms such as Logistic regression, Naive Bayes, and KNN to identify the best-performing model based on predictive accuracy and efficiency. Then I finally got KNN as the best-performing model with the accuracy of **94%**
 ### 5. Intel OneAPI Integration: 
 Integrated Intel OneAPI tools and libraries to accelerate computations and improve model performance, harnessing the power of heterogeneous computing architectures for efficient processing.
 ### 6. Model Evaluation: 
