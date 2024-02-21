@@ -13,7 +13,7 @@ Conducted thorough data cleaning, handling missing values, and encoding categori
 ### 3. Feature Engineering: 
 Engineered relevant features and conducted exploratory data analysis to extract actionable insights and enhance model performance.
 ### 4. Model Selection and Training: 
-Leveraged Intel OneAPI to expedite model training and optimization, evaluating various machine learning algorithms such as Logistic regression, Naive Bayes, and KNN to identify the best-performing model based on predictive accuracy and efficiency. Then I finally got KNN as the best-performing model with the accuracy of *94%*
+Leveraged Intel OneAPI to expedite model training and optimization, evaluating various machine learning algorithms such as Logistic regression, Naive Bayes, and KNN to identify the best-performing model based on predictive accuracy and efficiency. Then I finally got KNN as the best-performing model with **94% Accuracy**
 
 ![Screenshot 2024-02-21 053547](https://github.com/gomathi-ramachandran/OneAPI-Telecom-Churn-Prediction/assets/111870397/66bed838-cf04-4c6e-bd5f-7d5e42ccef31)
 ### 5. Intel OneAPI Integration: 
