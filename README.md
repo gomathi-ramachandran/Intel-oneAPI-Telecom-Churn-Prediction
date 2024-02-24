@@ -32,7 +32,7 @@ Utilized Streamlit to deploy the final model, providing a user-friendly interfac
 # Significance of using Intel OneAPI:
 By integrating Intel OneAPI into our development pipeline, we achieved significant enhancements in performance and efficiency. Leveraging Intel OneAPI led to faster model training and inference, enabling quicker iteration cycles and smoother development workflows. Additionally, the unified programming model offered by Intel OneAPI simplified the development process, making it easier to work with heterogeneous architectures and optimizing resource utilization. Overall, the integration of Intel OneAPI played a crucial role in improving the performance, speed, and ease of development of our machine learning solution.
 
-![WhatsApp Image 2024-02-24 at 19 50 58_c9d11a81](https://github.com/gomathi-ramachandran/Intel-oneAPI-Telecom-Churn-Prediction/assets/111870397/f706af28-b1b6-4c83-a3ab-baa14a85c22f)
+![images](https://github.com/gomathi-ramachandran/Intel-oneAPI-Telecom-Churn-Prediction/assets/111870397/251d8c69-0fd0-4934-bf7f-88de35291aee)
 # Future Enhancements 🚀
 1. Explore advanced machine learning algorithms, such as neural networks and ensemble methods, to further enhance prediction accuracy and robustness.
 2. Incorporate additional data sources, including customer sentiment analysis from social media and network performance metrics, to enrich predictive capabilities.
