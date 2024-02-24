@@ -18,6 +18,7 @@ Leveraged Intel OneAPI to expedite model training and optimization, evaluating v
 ![Screenshot 2024-02-21 053547](https://github.com/gomathi-ramachandran/OneAPI-Telecom-Churn-Prediction/assets/111870397/66bed838-cf04-4c6e-bd5f-7d5e42ccef31)
 ### 5. Intel OneAPI Integration: 
 Integrated Intel OneAPI tools and libraries to accelerate computations and improve model performance, harnessing the power of heterogeneous computing architectures for efficient processing.
+
 ![download (1)](https://github.com/gomathi-ramachandran/Intel-oneAPI-Telecom-Churn-Prediction/assets/111870397/594822c4-e048-4f95-ad1b-bc97c79e38ce)
 ### 6. Model Evaluation: 
 Employed robust evaluation metrics such as accuracy, precision, recall, and F1-score to assess model performance, validate predictive capabilities, and fine-tune hyperparameters.
